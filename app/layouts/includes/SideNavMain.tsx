@@ -192,9 +192,7 @@ async function init(appDiv: HTMLElement) {
       },
       scenario: {
         mode: ZegoUIKitPrebuilt.LiveStreaming,
-        config: {
-          role,
-        },
+        
       },
       sharedLinks,
       onLeaveRoom: () => {
