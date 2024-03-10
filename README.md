@@ -105,4 +105,5 @@ npm i
 npm run dev
 ```
 
+You should be good to go! If you need any more help, take a look at the tutorial video by clicking the image above.
 
